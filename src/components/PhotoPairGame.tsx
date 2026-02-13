@@ -34,7 +34,6 @@ const allImages = [
   "/game-photos/33.avif",
   "/game-photos/35.avif",
   "/game-photos/36.avif",
-  "/game-photos/37.avif",
 ];
 
 // Randomly select 18 images from the pool for this game
