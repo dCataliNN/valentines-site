@@ -39,7 +39,6 @@ const images = [
   "/game-photos/33.avif",
   "/game-photos/35.avif",
   "/game-photos/36.avif",
-  "/game-photos/37.avif",
 ];
 
 export default function ValentinesProposal() {
